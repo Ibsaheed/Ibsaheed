@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibsaheed
-- 👀 I’m interested in data analytics
+- 👀 I’m a data analyst
 - 🌱 I’m currently learning Microsoft Power BI
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me at ibsaheed01@gmail.com
